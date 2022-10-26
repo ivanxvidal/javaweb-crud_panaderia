@@ -1,0 +1,8 @@
+com\proyectos\javaweb\crud\Modelo\insertar.class
+com\proyectos\javaweb\crud\Controlador\listar.class
+com\proyectos\javaweb\crud\Modelo\obtener.class
+com\proyectos\javaweb\crud\Controlador\conexion.class
+com\proyectos\javaweb\crud\Controlador\eliminar.class
+com\proyectos\javaweb\crud\Modelo\bd.class
+com\proyectos\javaweb\crud\Controlador\agregar.class
+com\proyectos\javaweb\crud\Modelo\borrar.class
